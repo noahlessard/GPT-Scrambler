@@ -15,4 +15,16 @@ python main.py -i *path to text file*
 
 and it will give an output in its folder with the scrambled text.
 
+### Text before scrambling in a generic detector
+![alt text](https://github.com/noahlessard/GPT-Scrambler/blob/main/before_scramble.PNG)
 
+### Text after scrambling in a generic detector
+![alt text](https://github.com/noahlessard/GPT-Scrambler/blob/main/so_real_its_fake..PNG)
+
+
+### Before scrambling in a detailed detector
+![alt text](https://github.com/noahlessard/GPT-Scrambler/blob/main/before_scramble_detailed.PNG)
+
+
+### After scrambling in a detailed detector
+![alt text](https://github.com/noahlessard/GPT-Scrambler/blob/main/characters%20dont%20show%20in%20detailed%20scan.PNG)
